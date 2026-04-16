@@ -19,4 +19,9 @@ The dataset contains transaction-related features such as amount, time, and othe
 
 Detailed metrics are available in `results.txt`.
 
+## Important Note
+
+This project uses **Git Large File Storage (LFS)** to handle large datasets and model files.  
+Before cloning or pulling, please make sure you have Git LFS installed:
+
 ## Project Structure
